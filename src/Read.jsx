@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Data from './Data';
 import * as XLSX from 'xlsx';
-import { div } from 'framer-motion/client';
+
 import axios from 'axios';
 import { useNavigate } from 'react-router';
 
